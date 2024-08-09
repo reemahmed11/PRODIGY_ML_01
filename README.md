@@ -35,5 +35,9 @@ The model's performance is measured using RMSE and MAE, providing an indication 
 
 This project demonstrates the practical application of linear regression in real estate, offering valuable insights into how different property features influence house prices.
 
+If you have any questions or would like further information about this project, please feel free to reach out to me via email:
 
+📧 [reemahmedm501@gmail.com]
+
+I am always open to discussing the project in more detail and exploring potential collaborations.
 
